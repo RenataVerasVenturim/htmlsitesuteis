@@ -5,4 +5,4 @@
 *.Js.linguist-detectable=false 
 *.html.linguist-detectable=true 
 *.xml.limguist-detectable=false 
-*.Vba.linguist-detectable=true
+*.Vba.linguist-detectable=false
