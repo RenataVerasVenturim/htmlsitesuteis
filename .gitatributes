@@ -1,0 +1,8 @@
+
+
+*.csharp.linguist-detectable=false 
+*.java.linguist-detectable=false
+*.Js.linguist-detectable=false 
+*.html.linguist-detectable=true 
+*.xml.limguist-detectable=false 
+*.Vba.linguist-detectable=true
